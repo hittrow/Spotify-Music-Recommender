@@ -1,0 +1,14 @@
+Collecting Django
+  Using cached Django-4.0.4-py3-none-any.whl (8.0 MB)
+Collecting tzdata
+  Using cached tzdata-2022.1-py2.py3-none-any.whl (339 kB)
+Collecting asgiref<4,>=3.4.1
+  Using cached asgiref-3.5.2-py3-none-any.whl (22 kB)
+Collecting sqlparse>=0.2.2
+  Using cached sqlparse-0.4.2-py3-none-any.whl (42 kB)
+Installing collected packages: tzdata, sqlparse, asgiref, Django
+  Attempting uninstall: asgiref
+    Found existing installation: asgiref 3.2.7
+    Uninstalling asgiref-3.2.7:
+      Successfully uninstalled asgiref-3.2.7
+Successfully installed Django-4.0.4 asgiref-3.5.2 sqlparse-0.4.2 tzdata-2022.1
